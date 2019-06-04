@@ -1,0 +1,132 @@
+{
+  "uid" : "dbf44fbb64a9a5a9",
+  "name" : "test_login_invalid",
+  "fullName" : "Tests.test_Login.TestLogin#test_login_invalid",
+  "historyId" : "dfb754aa705c1e9af166edaa4e6a0a29",
+  "time" : {
+    "start" : 1558439358157,
+    "stop" : 1558439383874,
+    "duration" : 25717
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_setup",
+    "time" : {
+      "start" : 1558439342445,
+      "stop" : 1558439358156,
+      "duration" : 15711
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d0b6101b67df0ebf",
+      "name" : "LoginScreen",
+      "source" : "d0b6101b67df0ebf.png",
+      "type" : "image/png",
+      "size" : 109310
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2d88374b14d9d549",
+      "name" : "Screenshot1",
+      "source" : "2d88374b14d9d549.png",
+      "type" : "image/png",
+      "size" : 111540
+    }, {
+      "uid" : "9d3103819be32864",
+      "name" : "Screenshot1",
+      "source" : "9d3103819be32864.png",
+      "type" : "image/png",
+      "size" : 111603
+    }, {
+      "uid" : "d270e07661b12ca2",
+      "name" : "log",
+      "source" : "d270e07661b12ca2.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "e468fa4f2ffcf005",
+      "name" : "stdout",
+      "source" : "e468fa4f2ffcf005.txt",
+      "type" : "text/plain",
+      "size" : 86
+    }, {
+      "uid" : "a10a1f5ec8760e3b",
+      "name" : "stderr",
+      "source" : "a10a1f5ec8760e3b.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "test_setup::0",
+    "time" : {
+      "start" : 1558439383876,
+      "stop" : 1558439389245,
+      "duration" : 5369
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "faiblr03l1013"
+  }, {
+    "name" : "thread",
+    "value" : "39396-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Tests.test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbf44fbb64a9a5a9.json",
+  "parameterValues" : [ ]
+}
